@@ -1,0 +1,38 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+span{
+    color: darkorange;
+}
+.flexible-container{
+
+display:flex
+
+}
+.skip{
+
+    width: 50%;
+    margin-top: 100px;
+    padding-left: 20px;
+}
+.skip img{
+
+    width: 75%;
+    padding-left: 15%;
+}
+.button{
+text-decoration: none;
+background-image: linear-gradient( to right,darkorange,red);
+border-radius: 40px;
+color: white;
+font-weight: 600;
+padding: 15px 35px;
+margin-top: 50px;
+}
+.two{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
