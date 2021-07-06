@@ -57,13 +57,16 @@ box-shadow: 10
     box-shadow: 10px 10px 40px gray;
     margin-left: 10px;
     margin-right: 10px;
-    padding-right: 10px;
-    padding-left: 30px;
+    padding-right: 100px;
+    padding-left: 70px;
     border-radius: 10px;
 }
-#recipies h1{
+#recipies{
 text-align: center;
 
+}
+#recipies{
+    margin-top: 100px;
 }
 h2{
     text-align: center;
@@ -71,5 +74,11 @@ h2{
 .optional{
 display: flex;
 box-shadow: 10px 10px 10px 10px gray;
-margin: 10px;
+margin: 10px 10px;
+border-radius: 10px;
+margin-top: 100px;
 }
+footer{
+background: black;
+color: white;
+text-align: center;}
